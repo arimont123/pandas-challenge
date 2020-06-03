@@ -1,0 +1,4 @@
+Observable trends found from the analysis: 
+1. The large majority of players are male (84%) and therefore they have a larger purchase count./n
+2. The largest percentage of players are ages 20-24, this age group also has the highest puchase count.
+3. The most popular item (Outbreaker) is also the most profitable item, with a total purchase value of $50.76.
