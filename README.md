@@ -1,5 +1,6 @@
 # pandas-challenge
-This python code uses pandas to analyze the data for a fantasy game called Heroes of Pymoli.
+The final script is called "Final_script" and the "Trends Found" text document contains conclusions about the data.
+Description: this python code uses pandas to analyze the data for a fantasy game called Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. In this code I broke down the game's purchasing data into meaningful insights.
 
 The final code includes each of the following:
